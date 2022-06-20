@@ -11,6 +11,6 @@ jobs:
     # Add steps to the job
     steps:
       - checkout
-      - run: pytest
+      - run: python3 -m unittest
      
 
