@@ -1,2 +1,4 @@
 # PyTest-Jenkins
-# CI
+# using Jenkins CI
+and 
+# cricle CI
